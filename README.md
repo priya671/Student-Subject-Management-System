@@ -7,6 +7,7 @@ JPA is implemented for sql database part.
 There are POST and GET APIs for both Student and Subject Entity.
 Additionally, there is a GET method to assign student to subject.
 There is a foreign key in Subject table named student id.
+There is also Exception Handling implemented in the project.
 
 How to run the file:
 1. Download the repository into your machine and extract the file.
